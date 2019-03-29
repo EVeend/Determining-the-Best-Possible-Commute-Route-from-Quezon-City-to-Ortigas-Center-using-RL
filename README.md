@@ -34,3 +34,5 @@ minutes.
 PDF Link(ACM): https://drive.google.com/open?id=1OiOxFWe5ga96t2hCvQ26va7vnzld9WKF
 
 PDF Link(Full Document): https://drive.google.com/open?id=15yzJvcdRopFaqdKMrYBZhd3Jc38IoIk4
+
+This project is made in collaboration Laiza Marie Alcones, Vince Rafael Larosa and Carrie Lyle Untalan. These people helped in collecting the dataset for the model, documentation of the project and the statistical test of the results. 
