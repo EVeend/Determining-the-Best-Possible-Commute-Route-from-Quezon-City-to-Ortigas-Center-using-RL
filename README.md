@@ -1,5 +1,4 @@
-# Determining the Best Possible Commute Route from Quezon City to Ortigas Center
-using Reinforcement Learning
+# Determining the Best Possible Commute Route from Quezon City to Ortigas Center using Reinforcement Learning
 
 ABSTRACT
 
