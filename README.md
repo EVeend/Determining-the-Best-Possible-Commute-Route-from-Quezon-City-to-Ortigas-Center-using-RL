@@ -1,6 +1,7 @@
 # Thesis-Code
 
 ABSTRACT
+
 This study is all about determining the best possible commute
 route from Quezon City to Ortigas Center using reinforcement
 learning. According to Numbeo’s Traffic Index by Country 2015
@@ -12,12 +13,14 @@ reach their destination. A majority (60%) of theFilipino
 respondents said their commutes are getting more expensive,
 mainly because of higherfares, higher fuel costs, choosing taxis
 and ride-hailing services over cheaper options.
+
 The researchers aimed to compute for the best possible
 commute path using reinforcement learning, in terms of distance,
 speed of transport unit, traffic level, weather, timeof the day,
 transportation fare, and estimated travel time that suited a
 person’s commutingroutine best while on the streets of Ortigas
 Center and with Quezon City as the initial location.
+
 The researchers had used comparative research to validate
 their approach. Based from theresults, it can be concluded that
 reinforcement learning can be used to solve path-finding
