@@ -1,7 +1,5 @@
 # Determining the Best Possible Commute Route from Quezon City to Ortigas Center using Reinforcement Learning
 
-ABSTRACT
-
 This study is all about determining the best possible commute
 route from Quezon City to Ortigas Center using reinforcement
 learning. According to Numbeo’s Traffic Index by Country 2015
@@ -32,3 +30,5 @@ other two systems, Google Transit and Sakay.ph, with a mean
 average of 22.30 PhP in terms of transportation fare and an
 average of 46.57 minutes in terms of estimated travel time in
 minutes.
+
+PDF Link: https://drive.google.com/open?id=1OiOxFWe5ga96t2hCvQ26va7vnzld9WKF
