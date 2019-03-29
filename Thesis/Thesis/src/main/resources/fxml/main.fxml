@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.resources.fxml.mainController">
+   <children>
+      <Button layoutX="478.0" layoutY="153.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="78.0" text="Simulate" />
+      <Button layoutX="490.0" layoutY="337.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="78.0" text="Details" />
+      <ChoiceBox fx:id="origin_dropdown" layoutX="374.0" layoutY="58.0" prefHeight="27.0" prefWidth="182.0" />
+      <ChoiceBox fx:id="destination_dropdown" layoutX="374.0" layoutY="107.0" prefHeight="27.0" prefWidth="182.0" />
+      <Label layoutX="301.0" layoutY="63.0" text="Set Origin" />
+      <Label layoutX="268.0" layoutY="112.0" text="Set Destination" />
+      <Label layoutX="28.0" layoutY="202.0" prefHeight="127.0" prefWidth="540.0" style="-fx-border-color: black;" text="Results hehe" />
+      <ChoiceBox fx:id="time_dropdown" layoutX="140.0" layoutY="58.0" prefHeight="31.0" prefWidth="110.0" />
+      <Text layoutX="73.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Set Time" wrappingWidth="66.11572257243097" />
+   </children>
+</Pane>
